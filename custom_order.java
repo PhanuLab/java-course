@@ -154,6 +154,35 @@ public class custom_order {
 	
 	
 	
+   	// Extras
+	
+	// Extra 1: Two more variables created are declared
+	
+	// int totalCost;
+	//	String addOnList;
+	
+		
+	// Extra 2: custom method taking a string and integer as arguments, then adds them to our cost and addOnList variables
+	
+	
+	//	static void addItem(String item, int cost) {
+	//  		totalCost+=cost;
+	//  	  	addOnList+=item;
+	//	}
+	
+	
+    // Extra 3: Write if statements before each add-on to see if they want that add-on (ex: do you want filling? We have ... ). If they respond with anything but "no", call your addItem method with their input and a cost as arguments.
+	
+	//	if (frostingType != "no"){
+	//	  addItem(frostingType,2);
+	//	  addOnList+=", ";
+	//	}
+		
+	// Extra 4: Modify the finial statement so it displays the new cost variable and addOnList statement.
+	
+	
+	
+	
 
     }
 }
